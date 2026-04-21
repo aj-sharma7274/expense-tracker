@@ -1,0 +1,15 @@
+[
+  { "category": "Saving & Investment",      "budget": 10000 },
+  { "category": "Housing Expense",          "budget": 9000  },
+  { "category": "Term Insurance",           "budget": 0     },
+  { "category": "Health Insurance",         "budget": 0     },
+  { "category": "Transportation",           "budget": 1000  },
+  { "category": "Groceries",               "budget": 1500  },
+  { "category": "Food/Dining Out",          "budget": 1000  },
+  { "category": "Clothing & Accessories",   "budget": 1000  },
+  { "category": "Personal care (Grooming)", "budget": 500   },
+  { "category": "Subscription/Recharge",   "budget": 500   },
+  { "category": "Miscellaneous",            "budget": 500   },
+  { "category": "Wants/Dreams",             "budget": 1000  },
+  { "category": "Credit Card Bill",         "budget": 3911  }
+]
